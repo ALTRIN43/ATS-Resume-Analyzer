@@ -1,4 +1,4 @@
-# ATS Resume Analyzer
+<img width="1845" height="598" alt="image" src="https://github.com/user-attachments/assets/903813a9-22da-4ba8-a833-3901ac84de3e" /># ATS Resume Analyzer
 
 ## Overview
 
@@ -253,6 +253,10 @@ Implement embedding-based similarity matching to improve resume-job alignment ac
 * Career Guidance Platforms
 * HR Analytics Solutions
 * Job Application Assistance
+
+
+<img width="1845" height="598" alt="image" src="https://github.com/user-attachments/assets/db430745-10a6-4a05-a8dc-8e275b951e62" />
+
 
 ## Author
 
