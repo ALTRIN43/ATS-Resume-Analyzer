@@ -94,6 +94,8 @@ ATS_Resume_Analyzer/
     └── skills_db.txt
 ```
 
+
+
 ## Installation
 
 Clone the repository:
@@ -210,6 +212,9 @@ Missing Sections:
 - Experience
 ```
 
+<img width="1740" height="816" alt="Screenshot 2026-06-23 144636" src="https://github.com/user-attachments/assets/ea92ee74-4fb8-425d-accb-991917499f90" />
+
+
 ## Future Enhancements
 
 ### NLP-Based Skill Extraction
@@ -254,8 +259,6 @@ Implement embedding-based similarity matching to improve resume-job alignment ac
 * HR Analytics Solutions
 * Job Application Assistance
 
-
-<img width="1845" height="598" alt="image" src="https://github.com/user-attachments/assets/db430745-10a6-4a05-a8dc-8e275b951e62" />
 
 
 ## Author
