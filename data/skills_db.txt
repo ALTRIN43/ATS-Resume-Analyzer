@@ -1,0 +1,27 @@
+python
+java
+c++
+sql
+mysql
+mongodb
+aws
+azure
+docker
+kubernetes
+git
+github
+linux
+fastapi
+flask
+django
+react
+nodejs
+machine learning
+deep learning
+tensorflow
+pytorch
+pandas
+numpy
+power bi
+tableau
+streamlit
